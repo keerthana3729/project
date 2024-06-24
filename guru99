@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="guru.css">
+        <!-- Latest compiled and minified CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Latest compiled JavaScript -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    
+    <section>
+        <div class="row">
+            <div class="col-sm-3">
+                <div>
+                    <ul>
+                        <li class="head text-center"><h4>TESTING</h4></li>
+                            <li class="list"><a href="" class="dot"> ➤ QTP (Quick Test Professional)</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ Mobile App Testing</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ Selenium</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ Cucumber Testing</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ SoapUI</a></li>
+                            <li class="list"><a href="" class="dot">➤ Agile Testing</a></li>
+                            <li class="list"><a href="" class="dot">➤ SoapUI</a></li>
+                            <li class="list"><a href="" class="dot">➤ RPA</a></li>
+                     </ul>
+                 </div>
+                 <div>
+                    <ul>
+                        <li class="head text-center"><h4>LIVE PROJECTS</h4></li>
+                        <li class="list"><a href="" class="dot"> ➤ Live Selenium Project</a></li>
+                        <li class="list"><a href="" class="dot"> ➤ Live Ecommerce Project</a></li>
+                        <li class="list"><a href="" class="dot"> ➤ Live UFT Testing</a></li>
+                        <li class="list"><a href="" class="dot"> ➤ Cucumber Testing</a></li>
+                        <li class="list"><a href="" class="dot"> ➤ Live HP ALM Exercise</a></li>
+                        <li class="list"><a href="" class="dot">➤ Live Mobile Testing</a></li>
+                        <li class="list"><a href="" class="dot">➤ Live Security Testing</a></li>
+                        <li class="list"><a href="" class="dot">➤ Live Scrum(Agile) Testing</a></li>
+                        <li class="list"><a href="" class="dot">➤ Live Insurance Testing</a></li>
+                        <li class="list"><a href="" class="dot">➤ Live Payment Gateway</a></li>
+                        <li class="list"><a href="" class="dot">➤ Live Telecom</a></li>
+                        <li class="list"><a href="" class="dot">➤ Live Java Project</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li class="head text-center"><h4>DEFECT TOOLS</h4></li>
+                        <li class="list"><a href="" class="dot"> ➤ Bugzilla</a></li>
+                        <li class="list"><a href="" class="dot"> ➤ JIRA</a></li>
+                        <li class="list"><a href="" class="dot"> ➤ MANTIS Bug Tracker</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li class="head text-center"><h4>ENTERPRISE TESTING</h4></li>
+                        <li class="list"><a href="" class="dot"> ➤ ETL Testing</a></li>
+                        <li class="list"><a href="" class="dot"> ➤ SAP Testing</a></li>
+                        <li class="list"><a href="" class="dot"> ➤ Database(Data) Testing</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li class="head text-center"><h4>PERFORAMANCE TESTING</h4></li>
+                        <li class="list"><a href="" class="dot"> ➤Jmeter</a></li>
+                        <li class="list"><a href="" class="dot"> ➤ HP Loaderunner</a></li>
+                    </ul>
+                </div>
+            <
+                    <div>
+                        <ul>
+                            <li class="head text-center"><h4>BIG  DATA</h4></li>
+                                <li class="list"><a href="" class="dot"> ➤ BigData</a></li>
+                                <li class="list"><a href="" class="dot"> ➤ HBase</a></li>
+                                <li class="list"><a href="" class="dot"> ➤ MongoDB</a></li>
+                                <li class="list"><a href="" class="dot"> ➤ Hive</a></li>
+                                <li class="list"><a href="" class="dot"> ➤ Cassandra</a></li>
+                                <li class="list"><a href="" class="dot">➤ Aws</a></li>
+                                <li class="list"><a href="" class="dot">➤ Data Warehouse</a></li>
+                                <li class="list"><a href="" class="dot">➤ DevoOps</a></li>
+                                <li class="list"><a href="" class="dot">➤ Tableau</a></li>
+                                <li class="list"><a href="" class="dot">➤ MicroStrategy</a></li>
+                                <li class="list"><a href="" class="dot">➤ OBIEE</a></li>
+                                <li class="list"><a href="" class="dot">➤ Pentaho</a></li>
+                                <li class="list"><a href="" class="dot">➤Power BI</a></li>
+                                <li class="list"><a href="" class="dot">➤ Qlikview</a></li>
+                                <li class="list"><a href="" class="dot">➤ Talend</a></li>
+                                <li class="list"><a href="" class="dot">➤ Zookeeper</a></li>
+                            <li class="list"><a href="" class="dot">➤ NIFI</a></li>
+                         </ul>
+                     </div>
+                </div>
+
+            <div class="col-sm-3">
+                <div>
+                    <ul>
+                        <li class="head text-center"><h4>AI</h4></li>
+                            <li class="list"><a href="" class="dot"> ➤ TensorFlow</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ R Programming</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ NLTK</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ Artificial Intelligence</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ Data Science</a></li>
+                            <li class="list"><a href="" class="dot">➤ Keras</a></li>
+                            <li class="list"><a href="" class="dot">➤ NumPy</a></li>
+                            <li class="list"><a href="" class="dot">➤ PyTorch</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul>
+                            <li class="head text-center"><h4>WEB</h4></li>
+                                <li class="list"><a href="" class="dot"> ➤ Java</a></li>
+                                <li class="list"><a href="" class="dot"> ➤ VBScript</a></li>
+                                <li class="list"><a href="" class="dot"> ➤ Python</a></li>
+                                <li class="list"><a href="" class="dot"> ➤ Perl</a></li>
+                                <li class="list"><a href="" class="dot"> ➤ Linux</a></li>
+                                <li class="list"><a href="" class="dot">➤ Javascript</a></li>
+                                <li class="list"><a href="" class="dot">➤ Apache</a></li>
+                                <li class="list"><a href="" class="dot">➤ PHP</a></li>
+                                <li class="list"><a href="" class="dot">➤ TangularJS</a></li>
+                                <li class="list"><a href="" class="dot">➤ Node.js</a></li>
+                                <li class="list"><a href="" class="dot">➤ JSP</a></li>
+                                <li class="list"><a href="" class="dot">➤ Web Service</a></li>
+                                <li class="list"><a href="" class="dot">➤C#</a></li>
+                                <li class="list"><a href="" class="dot">➤ ASP.Net</a></li>
+                                <li class="list"><a href="" class="dot">➤ Android</a></li>
+                                <li class="list"><a href="" class="dot">➤ C++</a></li>
+                                <li class="list"><a href="" class="dot">➤ Codelgniter</a></li>
+                                <li class="list"><a href="" class="dot">➤ReactJS </a></li>
+                                <li class="list"><a href="" class="dot">➤Ruby & Rails </a></li>
+                                <li class="list"><a href="" class="dot">➤ UML</a></li>
+                                <li class="list"><a href="" class="dot">➤ WPF</a></li>
+                                <li class="list"><a href="" class="dot">➤Execute Java Online </a></li>
+                                <li class="list"><a href="" class="dot">➤Execute JavaScript </a></li>
+                                <li class="list"><a href="" class="dot">➤Execute  HTML</a></li>
+                                <li class="list"><a href="" class="dot">➤ Execute Python</a></li>
+                            </ul>
+                        </div>
+                    <div>
+                       <ul>
+                            <li class="head text-center"><h4>TEST MANAGEMENT</h4></li>
+                            <li class="list"><a href="" class="dot"> ➤ HP Quality Center/ALM </a></li>
+                            <li class="list"><a href="" class="dot"> ➤Test MANAGEMENT</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ TestLink</a></li>
+                            <li class="list"><a href="" class="dot"> ➤Test Management Tools</a></li>
+                         </ul>
+                    </div>
+            </div>
+            <div class="col-sm-3">
+                <div>
+                    <ul>
+                        <li class="head text-center"><h4>MUST LEARN!</h4></li>
+                            <li class="list"><a href="" class="dot"> ➤ web Development</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ Online courses</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ Reviews</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ Excel Tutorials</a></li>
+                            <li class="list"><a href="" class="dot"> ➤ Accounting</a></li>
+                            <li class="list"><a href="" class="dot">➤ Ethical Hacking </a></li>
+                            <li class="list"><a href="" class="dot">➤ Cloud Computing</a></li>
+                            <li class="list"><a href="" class="dot">➤ Photoshop CC</a></li>
+                            <li class="list"><a href="" class="dot">➤Business Analyst</a></li>
+                            <li class="list"><a href="" class="dot">➤ Informatica</a></li>
+                            <li class="list"><a href="" class="dot">➤ Project Management</a></li>
+                            <li class="list"><a href="" class="dot">➤ VBA</a></li>
+                            <li class="list"><a href="" class="dot">➤CCNA</a></li>
+                            <li class="list"><a href="" class="dot">➤ Jenkins</a></li>
+                            <li class="list"><a href="" class="dot">➤ Software Engineering</a></li>
+                            <li class="list"><a href="" class="dot">➤ Blockchain</a></li>
+                            <li class="list"><a href="" class="dot">➤ Cloud Mining Site</a></li>
+                            <li class="list"><a href="" class="dot">➤Go Programming</a></li>
+                            <li class="list"><a href="" class="dot">➤Networking</a></li>
+                            <li class="list"><a href="" class="dot">➤ Operting System</a></li>
+                            <li class="list"><a href="" class="dot">➤ Compiler Designer</a></li>
+                            <li class="list"><a href="" class="dot">➤COBOL </a></li>
+                            <li class="list"><a href="" class="dot">➤Embedded system </a></li>
+                            <li class="list"><a href="" class="dot">➤Algorithm</a></li>
+                            <li class="list"><a href="" class="dot">➤ Salesforce</a></li>
+                            <li class="list"><a href="" class="dot">➤ eCommerce Platforms</a></li>
+                            <li class="list"><a href="" class="dot">➤ Website Monitoring Tools</a></li>
+                            <li class="list"><a href="" class="dot">➤Best IPTV Service </a></li>
+                            <li class="list"><a href="" class="dot">➤ Best VPNs</a></li>
+                            <li class="list"><a href="" class="dot">➤ VPN for iphone</a></li>
+                            <li class="list"><a href="" class="dot">➤ Crypto Savings Accounts</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul>
+                             <li class="head text-center"><h4>DATABASE</h4></li>
+                             <li class="list"><a href="" class="dot"> ➤ SQL </a></li>
+                             <li class="list"><a href="" class="dot"> ➤SQL Lite</a></li>
+                             <li class="list"><a href="" class="dot"> ➤ Postgre SQL</a></li>
+                             <li class="list"><a href="" class="dot"> ➤PL/SQL</a></li>
+                             <li class="list"><a href="" class="dot"> ➤DBMS</a></li>
+                             <li class="list"><a href="" class="dot"> ➤MariaDB</a></li>
+                             <li class="list"><a href="" class="dot"> ➤SQL Server</a></li>
+                             <li class="list"><a href="" class="dot"> ➤SQL Tools</a></li>
+                          </ul>
+                      </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+
+
+
+.dot
+{
+    list-style: none;
+    border-bottom: 1px dotted;
+    padding: 3px 5px;
+    text-decoration: none;
+    color: black;
+    width: 100%;
+    display: block;
+    font-size: 20px;
+    font-weight: 450;
+}
+.head
+{
+    background: blue;
+    border-top: 10px;
+    border-radius: 10px 10px 0px 0px;
+    padding: 3px 5px;
+    list-style: none;
+    color: white;
+}
+.list
+{
+    list-style: none;
+}
+.dot:hover
+{
+    background-color: yellow;
+}
+
+
+
+
+
+
+
