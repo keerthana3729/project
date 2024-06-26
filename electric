@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        units=parseInt(prompt("Enter units"));
+        if(units<=100)
+        {
+            alert("500+5% of units");
+        }
+        else if(units>101 && units<=500)
+        {
+            alert("1200+7.5% of units");
+        }
+        else if(units>501 && units<=750)
+        {
+            alert("1500+9.5% of units");
+        }
+        else if(units>751 && units<=1000)
+        {
+            alert("2000+11.2% of units");
+        }
+        else
+        {
+            alert("2200+12% of units");
+        }
+      
+    </script>
+</body>
+</html>
