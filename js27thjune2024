@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+  //WAP to check whether the entered number is positive or negative
+        
+       number= parseInt(prompt("Enter the number:"));
+
+      if (number>0)
+      {
+        alert("Number is positive")
+      }
+     
+      else if(number == 0)
+      {
+        alert ("number is zero")
+      }
+      else
+      {
+        alert("Number is Negative")
+      }
+
+
+   //WAP  to check whether the entered number is odd or even
+     
+   number= parseInt(prompt("Enter the number for odd or even:"));
+
+   if (number % 2 == 0)
+   {
+    alert("The number is even")
+   }
+   else
+   {
+    alert("The number is odd")
+   }
+
+    //WAP to enter an age of user and check if he is eligible to vote or not.
+
+    age=parseInt(prompt("Enter your Age:"));
+    
+    if (age=  0 >= 18 )
+    {
+        alert("Your eligible to vote:")
+    }
+    else 
+    {
+        alert("Your not eligible to vote")
+    }
+    
+    //WAP to check wether the entered number is divisible by 7.
+
+    number= parseInt(prompt("Enter the number  to check divide by 7:"));
+      
+    if (nuber % 7==o )
+    {
+        alert("Entered number is divided by 7:")
+    }
+    else 
+    {
+        alert("Entered number is not divided by 7")
+    }
+       
+
+    //Write a Program to perform mathematical calculations addition, division and multiplication on tw0 numbers using Switch statement.
+      
+    
+    
+    action=prompt("action should Enter in +,-,*,/");
+    let number1=parseInt(prompt("Enter Number1 To Perform action"));
+    let number2=parseInt(prompt("Enter Number2 To Perform action"));
+    switch(action)
+{
+    case '+':
+    {
+        sum=number1+number2;
+        alert("Addition of two numbers is:"+sum);
+        break;
+    }
+    case '-':
+    {
+        sub=number1-number2;
+        alert("Addition of two numbers is:"+sub);
+        break;
+    }
+    case '/':
+    {
+        div=number1/number2;
+        alert("Addition of two numbers is:"+div);
+        break;
+    }
+    case '*':
+    {
+        mult=number1*number2;
+        alert("Addition of two numbers is:"+mult);
+        break;
+    }
+    default:
+    {
+        alert("Enter action is Invalid");
+    }
+}
+    </script>
+</body>
+</html>
